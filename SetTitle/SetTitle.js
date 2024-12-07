@@ -25,16 +25,3 @@ var find = (function () {
         foundElements[i].innerText=setName;    // Change the content
     } 
 })();
-
-const myStyles = `
-text-align: center;
-`;
-
-var styleNew = (function () {
-    foundElements=document.getElementsByClassName("WebsiteName-align");  // Find the elements
-    for(var i = 0; i < foundElements.length; i++){
-        foundElements[i].innerText=setName;    // Change the content
-        tostyle = foundElements[i]
-        tostyle.style.cssText = myStyles;
-    } 
-})();
