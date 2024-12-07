@@ -26,6 +26,10 @@ var find = (function () {
     } 
 })();
 
+const myStyles = `
+text-align: center;
+`;
+
 var styleNew = (function () {
     foundElements=document.getElementsByClassName("WebsiteName-align");  // Find the elements
     for(var i = 0; i < foundElements.length; i++){
