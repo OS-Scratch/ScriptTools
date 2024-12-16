@@ -17,7 +17,7 @@ Then, modify your website's title as following:
 Add the **_class="WebsiteName"_** attribute to everywhere you want your title to appear. Save your file and watch your website title change instantly!
 
 ## Why SetTitle?
-Imagine a big company named TestHub is changing their website name on their website, in which the name appears 100 times. Sure, they could use Find and Replace, but then they would still have manually press Replace. With SetTitle installed, they just need to change their h1 tag or wherever their website name is defined and they're ready to go!
+Imagine a big company named TestHub is changing their website name on their website, in which the name appears 100 times. Sure, they could use Find and Replace, but then they would still need to manually press Replace. With SetTitle installed, they just need to change their h1 tag or wherever their website name is defined and they're ready to go!
 
 SetTitle also constantly receives updates, upgrading it with better functions and increasing the stability.
 
