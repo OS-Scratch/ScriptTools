@@ -1,3 +1,5 @@
+//SetTitle v1.0. SetTitle is a JavaScript extension by @OS-Scratch.
+//SetTitle, as long as other ScriptTools library elements, is governed by the MIT license.
 var setName
 var name = (function () {
     /*Get the website name*/
